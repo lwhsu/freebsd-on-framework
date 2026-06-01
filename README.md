@@ -6,19 +6,19 @@ FreeBSD works on our systems and helps you set it up.
 
 ## Systems
 
-| System              | Mainboard                   | Status                              |
-|---------------------| ----------------------------|-------------------------------------|
-| Framework Laptop 12 | 13th Gen Intel Core         | Working well                        |
-| Framework Laptop 13 | 11th Gen Intel Core         | Working well                        |
-| Framework Laptop 13 | 12th Gen Intel Core         | Working well                        |
-| Framework Laptop 13 | 13th Gen Intel Core         | Working well                        |
-| Framework Laptop 13 | Intel Core Ultra Series 1   | Working with DRM 6.6 (FreeBSD 15)   |
-| Framework Laptop 13 | AMD Ryzen 7040 Series       | Working with DRM 6.2 (FreeBSD 14.2) |
-| Framework Laptop 13 | AMD Ryzen AI 300 Series     | Working, no GUI yet                 |
-| Framework Laptop 13 Pro | Intel Core Ultra Series 3 | |
-| Framework Laptop 16 | AMD Ryzen 7040 Series       | Working with DRM 6.2 (FreeBSD 14.2) |
-| Framework Laptop 16 | AMD Ryzen AI 300 Series     | Working well with nvidia GPU        |
-| Framework Desktop   | AMD Ryzen AI Max 300 Series | Working, no GUI yet                 |
+| System                  | Mainboard                   | Status                              |
+| ----------------------- | --------------------------- | ----------------------------------- |
+| Framework Laptop 12     | 13th Gen Intel Core         | Working well                        |
+| Framework Laptop 13     | 11th Gen Intel Core         | Working well                        |
+| Framework Laptop 13     | 12th Gen Intel Core         | Working well                        |
+| Framework Laptop 13     | 13th Gen Intel Core         | Working well                        |
+| Framework Laptop 13     | Intel Core Ultra Series 1   | Working with DRM 6.6 (FreeBSD 15)   |
+| Framework Laptop 13     | AMD Ryzen 7040 Series       | Working with DRM 6.2 (FreeBSD 14.2) |
+| Framework Laptop 13     | AMD Ryzen AI 300 Series     | Working, no GUI yet                 |
+| Framework Laptop 13 Pro | Intel Core Ultra Series 3   |                                     |
+| Framework Laptop 16     | AMD Ryzen 7040 Series       | Working with DRM 6.2 (FreeBSD 14.2) |
+| Framework Laptop 16     | AMD Ryzen AI 300 Series     | Working well with nvidia GPU        |
+| Framework Desktop       | AMD Ryzen AI Max 300 Series | Working, no GUI yet                 |
 
 ## Preparation
 
