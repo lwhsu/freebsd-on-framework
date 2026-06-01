@@ -15,6 +15,7 @@ FreeBSD works on our systems and helps you set it up.
 | Framework Laptop 13 | Intel Core Ultra Series 1   | Working with DRM 6.6 (FreeBSD 15)   |
 | Framework Laptop 13 | AMD Ryzen 7040 Series       | Working with DRM 6.2 (FreeBSD 14.2) |
 | Framework Laptop 13 | AMD Ryzen AI 300 Series     | Working, no GUI yet                 |
+| Framework Laptop 13 Pro | Intel Core Ultra Series 3 | |
 | Framework Laptop 16 | AMD Ryzen 7040 Series       | Working with DRM 6.2 (FreeBSD 14.2) |
 | Framework Laptop 16 | AMD Ryzen AI 300 Series     | Working well with nvidia GPU        |
 | Framework Desktop   | AMD Ryzen AI Max 300 Series | Working, no GUI yet                 |
@@ -70,10 +71,15 @@ TODO: KDE on Wayland
 - [x] UEFI Framebuffer (SCFB)
 - [x] Intel GPU driver (11th-13th Gen)
   - Working with `drm-61-kmod` on 12th Gen
-- [ ] Intel GPU driver (Intel Core Ultra)
-  - Needs at least 6.6, not in FreeBSD yet, see below for details
+- [x] Intel GPU driver (Intel Core Ultra series 1)
+  - Working with `drm-612-kmod`
+- [ ] Intel GPU driver (Intel Core Ultra series 3)
 - [x] Intel AX210 WiFi
-  - Only 802.22g support in FreeBSD, up to 54Mbit
+  - Working with if_iwlwifi(4)
+  - Only 802.11ac support in FreeBSD right now
+- [x] Intel BE211 WiFi
+  - Working with if_iwlwifi(4)
+  - Only 802.11ac support in FreeBSD right now
 - [ ] Intel AX210 Bluetooth
   - Not supported in FreeBSD kernel yet, see below
 - [x] Suspend (S3) on 11th-13th Gen
