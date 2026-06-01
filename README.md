@@ -175,6 +175,18 @@ uart2: <16950 or compatible> iomem 0xfedc9000-0xfedc9fff,0xfedc7000-0xfedc7fff i
 uart2: <16950 or compatible> iomem 0xfedc9000-0xfedc9fff,0xfedc7000-0xfedc7fff irq10 on acpi0
 ```
 
+### Framework 13 pro - Intel Core Ultra Series 3
+
+- [ ] Touchscreen
+- [ ] Suspend
+- [ ] Built-in Speaker
+- [ ] Built-in Mic
+- [ ] Audio jack speaker
+- [ ] Audio jack mic
+- [ ] DRM driver
+- [ ] BE211 WiFi
+- [ ] BE211 Bluetooth
+
 ## Interacting with the hardware
 
 Please refer to [Hardware Interaction](hardware-interaction.md) for details.
